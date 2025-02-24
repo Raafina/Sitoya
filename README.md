@@ -39,15 +39,15 @@ Sitoya is an website designed to help the management of Artesian Water in Desa S
             <li>Duplicate .env.example and rename it to .env</li>
             <li>Adjust the database and environment configurations</li>
         </ul>
-        <p><pre>php artisan key:generate/pre</p>
+        <p><pre>php artisan key:generate</pre></p>
     </li>
     <li>
         <p>Run database migrations</p>
-        <p><pre>php artisan migrate --seed/pre</p>
+        <p><pre>php artisan migrate --seed</pre></p>
     </li>
     <li>
         <p>Start the application</p>
-        <p><pre>php artisan serve/pre</p>
+        <p><pre>php artisan serve</pre></p>
     </li>
 </ol>
 
