@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Raafina/Sitoya/blob/main/public/assets/img/sitoya.png" alt="CMS Lokapath Dashboard" width="30%">
+  <img src="https://github.com/Raafina/Sitoya/blob/main/public/assets/img/sitoyaLogo.png" alt="CMS Lokapath Dashboard" width="30%">
 </p>
 
 ## Sitoya
