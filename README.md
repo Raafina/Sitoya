@@ -3,7 +3,7 @@
 </p>
 
 ## Sitoya
-Sitoya is an website designed to help the management of Artesian Water in Desa Salam Serep , Kota Semarang in recording payments from customers and managing cash flow efficiently. The application provides comprehensive financial reports, enabling administrators to monitor finances and operations.
+Sitoya is an website designed to help the management of Artesian Water in Desa Salam Serep , Kota Semarang in recording payments from customers and managing cash flow efficiently. The application provides comprehensive payment and finance reports, enabling administrators to monitor operations and financial.
 
 ## 🚀 Key Feature
 <ul>
