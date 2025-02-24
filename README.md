@@ -27,7 +27,7 @@ Sitoya is an website designed to help the management of Artesian Water in Desa S
     </li>
     <li>
         <p>Navigate to the project directory</p>
-        <p><pre>cd CMS-Lokapath</pre></p>
+        <p><pre>cd Sitoya</pre></p>
     </li>
     <li>
         <p>Install dependencies</p>
