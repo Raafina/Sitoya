@@ -39,7 +39,7 @@ Sitoya is an application designed to assist the management of Artesian Water in 
             <li>Duplicate .env.example and rename it to .env</li>
             <li>Adjust the database and environment configurations</li>
         </ul>
-        <p class="highlight highlight-text-html-basic notranslate position-relative overflow-auto">php artisan key:generate</p>
+        <p>php artisan key:generate</p>
     </li>
     <li>
         <p>Run database migrations</p>
