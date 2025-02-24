@@ -3,7 +3,7 @@
 </p>
 
 ## Sitoya
-Sitoya is an application designed to assist the management of Artesian Water in Salam Serep Village, Semarang City in recording payments from customers and managing cash flow efficiently. The application provides comprehensive financial reports, enabling administrators to monitor finances and operations with greater accuracy.
+Sitoya is an website designed to help the management of Artesian Water in Desa Salam Serep , Kota Semarang in recording payments from customers and managing cash flow efficiently. The application provides comprehensive financial reports, enabling administrators to monitor finances and operations.
 
 ## 🚀 Key Feature
 <ul>
@@ -16,7 +16,6 @@ Sitoya is an application designed to assist the management of Artesian Water in 
 <ol>
     <li>Laravel</li>
     <li>Bootstrap</li>
-    <li>JQuery</li>
     <li>MySQL/SQLite</li>
 </ol>
 
@@ -25,14 +24,14 @@ Sitoya is an application designed to assist the management of Artesian Water in 
     <li>
         <p>Clone this repository</p>
         <p><pre>git clone https://github.com/Raafina/CMS-Lokapath.git</pre></p>
-        </li>
+    </li>
     <li>
         <p>Navigate to the project directory</p>
-        <p>cd CMS-Lokapath</p>
+        <p><pre>cd CMS-Lokapath</pre></p>
     </li>
     <li>
         <p>Install dependencies</p>
-        <p>composer install</p>
+        <p><pre>composer install</pre></p>
     </li>
     <li>
         <p>Configure the .env file/SQLite</p>
@@ -40,15 +39,15 @@ Sitoya is an application designed to assist the management of Artesian Water in 
             <li>Duplicate .env.example and rename it to .env</li>
             <li>Adjust the database and environment configurations</li>
         </ul>
-        <p>php artisan key:generate</p>
+        <p><pre>php artisan key:generate/pre</p>
     </li>
     <li>
         <p>Run database migrations</p>
-        <p>php artisan migrate --seed</p>
+        <p><pre>php artisan migrate --seed/pre</p>
     </li>
     <li>
         <p>Start the application</p>
-        <p>php artisan serve</p>
+        <p><pre>php artisan serve/pre</p>
     </li>
 </ol>
 
