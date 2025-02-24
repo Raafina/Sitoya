@@ -24,7 +24,8 @@ Sitoya is an application designed to assist the management of Artesian Water in 
 <ol>
     <li>
         <p>Clone this repository</p>
-        <p>git clone https://github.com/Raafina/CMS-Lokapath.git</p></li>
+        <p><pre>git clone https://github.com/Raafina/CMS-Lokapath.git</pre></p>
+        </li>
     <li>
         <p>Navigate to the project directory</p>
         <p>cd CMS-Lokapath</p>
